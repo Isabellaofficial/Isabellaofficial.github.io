@@ -2,8 +2,8 @@
 main:
   - title: "Kakao Open chatting"
     url: https://open.kakao.com/o/sUK3P2Td
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Development"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
