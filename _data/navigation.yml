@@ -5,8 +5,8 @@ main:
   - title: "Category"
     url: /Development/
   - title: "Daily"
-    url: /Daily/
+    url: /dailes/
   - title: "Search"
     url: /Search/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Tag"
+    url: /tags/
