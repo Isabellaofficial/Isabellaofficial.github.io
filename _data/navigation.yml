@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Kakao Open chatting"
-    url: https://open.kakao.com/o/sUK3P2Td
   - title: "Category"
-    url: /Development/
+    url: /categories/
   - title: "Daily"
     url: /dailes/
   - title: "Search"
     url: /Search/
   - title: "Tag"
     url: /tags/
+  - title: "Kakao Open chatting"
+    url: https://open.kakao.com/o/sUK3P2Td
